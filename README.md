@@ -1,3 +1,5 @@
+![Paul Cushing on Github](/images/github-profile-header.jpg)
+
 # Heyo!
 
 My name is Paul Cushing and I'm a software developer. I'm from Boise and currently working at ClickBank.
