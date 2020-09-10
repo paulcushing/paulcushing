@@ -1,4 +1,4 @@
-![Paul Cushing on Github](/paulcushing/paulcushing/github-profile-header.jpg)
+![Paul Cushing on Github](https://github.com/paulcushing/paulcushing/blob/master/github-profile-header.jpg?raw=true)
 
 # Heyo!
 
