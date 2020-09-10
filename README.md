@@ -9,7 +9,7 @@ I'm a software developer, photographer, and learner. Boise is home and I current
 Apart from coding, I blog a little at [thePaulCushing.com](https://www.thepaulcushing.com). I also photograph Real Estate as [Gem State Media](https://www.gemstatemedia.com)
 
 ## 🔧 Technologies & Tools
-<div style="page-break-after: always">It seems kind of silly to try to list all of the tech I've touched in the many years I've been at it... but here's a few anyhow.</div>
+<div style="page-break-after: always">It seems kind of silly to try to list all of the tech I've touched in the many years I've been at it... but it looks cool so here's a few anyhow.</div>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
@@ -19,10 +19,12 @@ Apart from coding, I blog a little at [thePaulCushing.com](https://www.thepaulcu
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Platform-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Platform-WordPress-informational?style=flat&logo=wordpress&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a) 
+![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
