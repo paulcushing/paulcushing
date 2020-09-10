@@ -1,12 +1,12 @@
 [![Paul Cushing on Github](https://github.com/paulcushing/paulcushing/blob/master/github-profile-header.jpg?raw=true)](https://paulcushing.dev)
 
-# Heyo!
+# Hi-de-ho neighborino!
 
-My name is Paul Cushing and I'm a software developer. I'm from Boise and currently working at ClickBank.
+I'm a software developer, photographer, and learner. Boise is home and I currently working at ClickBank.
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my blog at [thePaulCushing.com](https://www.thepaulcushing.com/).
+Apart from coding, I blog a little at [thePaulCushing.com](https://www.thepaulcushing.com). I also photograph Real Estate as [Gem State Media](https://www.gemstatemedia.com)
 
 ## 🔧 Technologies & Tools
 <div style="page-break-after: always">It seems kind of silly to try to list all of the tech I've touched in the many years I've been at it... but here's a few anyhow.</div>
