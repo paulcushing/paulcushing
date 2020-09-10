@@ -9,8 +9,8 @@ My name is Paul Cushing and I'm a software developer. I'm from Boise and current
 Apart from coding, I also maintain a blog - you can find my articles on my blog at [thePaulCushing.com](https://www.thepaulcushing.com/).
 
 ## 🔧 Technologies & Tools
-It seems kind of silly to try to list all of the tech I've touched in the many years I've been at it... but here's a few anyhow.
-<div style="page-break-after: always"></div>
+<div style="page-break-after: always">It seems kind of silly to try to list all of the tech I've touched in the many years I've been at it... but here's a few anyhow.</div>
+
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
