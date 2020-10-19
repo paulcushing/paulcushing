@@ -2,7 +2,7 @@
 
 # Hi-de-ho neighborino!
 
-I'm a software developer, photographer, and learner. Boise is home and I currently working at ClickBank.
+I'm a software developer, photographer, and learner. Boise is home and I currently build software solutions at ClickBank.
 
 ## &#x270d; Blog & Writing
 
