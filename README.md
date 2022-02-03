@@ -1,6 +1,6 @@
 [![Paul Cushing on Github](https://github.com/paulcushing/paulcushing/blob/master/github-profile-header.jpg?raw=true)](https://paulcushing.dev)
 
-# Hi-de-ho neighborino!
+# Hi-dee-ho neighborino!
 
 I'm a software developer, photographer, and learner. Boise is home and I currently build software solutions at ClickBank.
 
