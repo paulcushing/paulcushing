@@ -9,29 +9,31 @@ I'm a software developer, photographer, and learner. Boise is home and I current
 Apart from coding, I blog a little at [thePaulCushing.com](https://www.thepaulcushing.com). I also photograph Real Estate as [Gem State Media](https://www.gemstatemedia.com)
 
 ## 🔧 Technologies & Tools
-<div style="page-break-after: always">It seems kind of silly to try to list all of the tech I've touched in the many years I've been at it... but it looks cool so here's a few anyhow.</div>
+It seems kind of silly to try to list all of the tech I've touched in the many years I've been at it... but it looks cool so here's a few anyhow.
 
-[![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)
-[![Mac](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)
-[![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=microsoft&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)
-[![IntelliJ](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)
-[![VS Code](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)
-[![Javascript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)
-[![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)
-[![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)
-[![Sass](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=sass&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)
-[![Tailwind CSS](https://img.shields.io/badge/Style-Tailwind_CSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)
-[![React](https://img.shields.io/badge/Platform-React-informational?style=flat&logo=react&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)
-[![Next JS](https://img.shields.io/badge/Platform-Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)
-[![WordPress](https://img.shields.io/badge/Platform-WordPress-informational?style=flat&logo=wordpress&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)
-[![Bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)
-[![MySQL](https://img.shields.io/badge/DBs-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)
-[![Prisma](https://img.shields.io/badge/DBs-Prisma-informational?style=flat&logo=prisma&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)
-[![Netlify](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)
-[![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)
-[![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)
-[![Digital Ocean](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)
-[![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)
+&nbsp;
+
+[![Linux](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=appveyor&logo=linux&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)&nbsp;&nbsp;
+[![Mac](https://img.shields.io/badge/OS-Mac-informational?style=for-the-badge&logo=apple&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)&nbsp;&nbsp;
+[![Windows](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=microsoft&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)&nbsp;&nbsp;
+[![IntelliJ](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=for-the-badge&logo=intellij-idea&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)&nbsp;&nbsp;
+[![VS Code](https://img.shields.io/badge/Editor-VS_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)&nbsp;&nbsp;
+[![Javascript](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)&nbsp;&nbsp;
+[![PHP](https://img.shields.io/badge/Code-PHP-informational?style=for-the-badge&logo=php&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)&nbsp;&nbsp;
+[![Java](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)&nbsp;&nbsp;
+[![Sass](https://img.shields.io/badge/Style-Sass-informational?style=for-the-badge&logo=sass&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)&nbsp;&nbsp;
+[![Tailwind CSS](https://img.shields.io/badge/Style-Tailwind_CSS-informational?style=for-the-badge&logo=tailwindcss&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)&nbsp;&nbsp;
+[![React](https://img.shields.io/badge/Platform-React-informational?style=for-the-badge&logo=react&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)&nbsp;&nbsp;
+[![Next JS](https://img.shields.io/badge/Platform-Next.js-informational?style=for-the-badge&logo=nextdotjs&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)&nbsp;&nbsp;
+[![WordPress](https://img.shields.io/badge/Platform-WordPress-informational?style=for-the-badge&logo=wordpress&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)&nbsp;&nbsp;
+[![Bash](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)&nbsp;&nbsp;
+[![MySQL](https://img.shields.io/badge/DBs-MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)&nbsp;&nbsp;
+[![Prisma](https://img.shields.io/badge/DBs-Prisma-informational?style=for-the-badge&logo=prisma&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)&nbsp;&nbsp;
+[![Netlify](https://img.shields.io/badge/Tools-Netlify-informational?style=for-the-badge&logo=netlify&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)&nbsp;&nbsp;
+[![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)&nbsp;&nbsp;
+[![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=for-the-badge&logo=kubernetes&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)&nbsp;&nbsp;
+[![Digital Ocean](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=for-the-badge&logo=digitalocean&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)&nbsp;&nbsp;
+[![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=for-the-badge&logo=amazonaws&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)&nbsp;&nbsp;
 
 <!-- More icons at https://simpleicons.org/ -->
 
