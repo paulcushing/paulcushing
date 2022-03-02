@@ -13,7 +13,7 @@ It seems kind of silly to try to list all of the tech I've touched in the many y
 
 &nbsp;
 
-[![Linux](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=appveyor&logo=linux&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)&nbsp;
+[![Linux](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)&nbsp;
 [![Mac](https://img.shields.io/badge/OS-Mac-informational?style=for-the-badge&logo=apple&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)&nbsp;
 [![Windows](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=microsoft&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)&nbsp;
 [![IntelliJ](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=for-the-badge&logo=intellij-idea&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)&nbsp;
