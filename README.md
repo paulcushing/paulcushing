@@ -36,7 +36,7 @@ It seems kind of silly to try to list all of the tech I've touched in the many y
 [![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=for-the-badge&logo=amazonaws&logoColor=white&color=ffffff&labelColor=2c2f3e)](#)&nbsp;
 
 <!-- More icons at https://simpleicons.org/ -->
-
+<!--
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/paulcushing/paulcushing">
@@ -45,3 +45,4 @@ It seems kind of silly to try to list all of the tech I've touched in the many y
 <a href="https://github.com/paulcushing/paulcushing">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=paulcushing&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Paul's GitHub Stats" />
 </a>
+-->
