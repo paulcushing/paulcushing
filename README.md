@@ -1,4 +1,4 @@
-[![Paul Cushing on Github](https://github.com/paulcushing/paulcushing/blob/master/github-profile-header.jpg?raw=true)](https://paulcushing.dev)
+[![Paul Cushing on Github](https://github.com/paulcushing/paulcushing/blob/master/github-profile-header2.png?raw=true)](https://www.thepaulcushing.com)
 
 # Hi-dee-ho neighborino!
 
@@ -9,6 +9,7 @@ I'm a software developer, photographer, and learner. Boise is home and I current
 Apart from coding, I blog a little at [thePaulCushing.com](https://www.thepaulcushing.com). I also photograph Real Estate as [Gem State Media](https://www.gemstatemedia.com)
 
 ## 🔧 Technologies & Tools
+
 It seems kind of silly to try to list all of the tech I've touched in the many years I've been at it... but it looks cool so here's a few anyhow.
 
 &nbsp;
