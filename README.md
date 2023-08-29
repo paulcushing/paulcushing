@@ -6,7 +6,7 @@ I'm a software developer, photographer, and learner. Boise is home and I current
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I blog a little at [thePaulCushing.com](https://www.thepaulcushing.com). I also photograph Real Estate as [Gem State Media](https://www.gemstatemedia.com)
+Apart from coding, I blog a little at [thePaulCushing.com](https://www.thepaulcushing.com). I also photograph Real Estate as [Gem State Media](https://www.gemstatemedia.com).
 
 ## 🔧 Technologies & Tools
 
